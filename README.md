@@ -31,7 +31,7 @@ Spatial Distribution: The study reveals that while some fibroblast subpopulation
 
 Implications for Wound Healing and Fibrosis: These findings highlight the role of distinct fibroblast subpopulations in normal wound healing processes and in diseases characterized by excessive fibrosis. The research suggests potential therapeutic applications, such as the ex vivo expansion or in vivo ablation of specific fibroblast subpopulations.
 
-*Publication - *
+# Publication - 
 
 Spatial and single-cell transcriptional profiling identifies functionally distinct human dermal fibroblast subpopulations
 
